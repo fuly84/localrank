@@ -100,7 +100,6 @@ export function LocalMap() {
       </span>
       <div className="map-main-pin">
         <Store size={28} strokeWidth={1.7} />
-        <span />
       </div>
       <div className="map-business-label">
         <span className="green-dot" /> Votre commerce <ArrowUpRight size={13} />
